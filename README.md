@@ -32,6 +32,7 @@ This repository is a collection of small AI and machine learning projects, mostl
 ## How to Run
 Most scripts can be run directly with Python:
 - `python ball_game.py`
+- 
 - `python hand_tracking.py`
 - `python face_tracking.py`
 - `python bibleAI.py`
