@@ -13,7 +13,6 @@ This repository is a collection of small AI and machine learning projects, mostl
 
 ### Hand and Face Tracking
 - **hand_tracking.py**
-- 
   Uses MediaPipe Hands to either collect hand landmark data (for training) or run inference with a trained model to classify hand gestures (e.g. number of fingers raised).
 
 - **hand_tracking_training.py**  
