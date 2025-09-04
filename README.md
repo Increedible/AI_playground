@@ -1,6 +1,6 @@
 # AI_playground
 
-This repository is a collection of small AI and machine learning projects, mostly built from scratch. The focus is on experimenting with computer vision, neural networks, and training workflows, rather than providing polished end-user tools.
+This repository is a collection of small AI and machine learning projects, mostly built from scratch. The focus is on experimenting with computer vision, neural networks, and training workflows, rather than providing polished end-user tools..
 
 ## Contents
 
