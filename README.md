@@ -12,7 +12,8 @@ This repository is a collection of small AI and machine learning projects, mostl
   Similar concepts as `main.py`, but implemented with PyTorch for convenience and GPU support. Includes training code for classification tasks.
 
 ### Hand and Face Tracking
-- **hand_tracking.py**  
+- **hand_tracking.py**
+- 
   Uses MediaPipe Hands to either collect hand landmark data (for training) or run inference with a trained model to classify hand gestures (e.g. number of fingers raised).
 
 - **hand_tracking_training.py**  
